@@ -1,0 +1,21 @@
+City,Temperature,Humidity,Condition
+New York,31°C,55%,Sunny
+London,24°C,73%,Sunny
+Tokyo,30°C,36%,Sunny
+Sydney,17°C,63%,Sunny
+Dehli,34°C,30%,Rainy
+London,25°C,53%,Rainy
+Punjab,14°C,44%,Cloudy
+Sydney,34°C,74%,Sunny
+Dehli,14°C,40%,Snowy
+London,27°C,37%,Sunny
+Punjab,22°C,58%,Sunny
+Sydney,21°C,65%,Sunny
+Dehli,19°C,62%,Sunny
+London,24°C,80%,Snowy
+Punjab,26°C,39%,Sunny
+Sydney,18°C,78%,Rainy
+Dehli,12°C,36%,Cloudy
+London,16°C,69%,Sunny
+Punjab,35°C,31%,Rainy
+Sydney,25°C,38%,Snowy
